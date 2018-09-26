@@ -1,4 +1,2 @@
-# hello-world
-My first repo
-This my first commit
-What about now
+# File-Rename.ps1
+This file is used to rename PDF files that have been coverted to OCR using PageMaker.
